@@ -1,0 +1,10 @@
+name: HammerMC
+version: 1.0
+main: hammermc.hammermc.HammerMC
+api-version: 1.13
+authors: [TimKolijn]
+description: Adds a anvil as a hamer to ban peps
+commands:
+  hammer:
+    description: gives the player a anvil to ban players
+    usage: /hammer
